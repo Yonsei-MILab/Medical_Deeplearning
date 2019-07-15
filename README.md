@@ -6,6 +6,7 @@ Gihub 란?
 * 프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.
 
 Google Colab 이란?
+
 [Tutorial 실습 링크](https://colab.research.google.com/github/Yonsei-MILab/Medical_Deeplearning/blob/master/CNN_VGG(Cifar10).ipynb)
 
 CPU/GPU
