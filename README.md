@@ -6,7 +6,7 @@ Gihub 란?
 * 프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35986429/61581865-ffe53e00-ab5e-11e9-88f1-7b8e0f29fbb7.JPG" width="800" height="300">
+  <img src="https://user-images.githubusercontent.com/35986429/61581865-ffe53e00-ab5e-11e9-88f1-7b8e0f29fbb7.JPG" width="800" height="350">
 </p>
 
 Google Colab 이란?
