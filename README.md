@@ -6,7 +6,7 @@
 * **프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35986429/61581865-ffe53e00-ab5e-11e9-88f1-7b8e0f29fbb7.JPG" width="750" height="350">
+  <img src="https://user-images.githubusercontent.com/35986429/61586413-3dbd8300-abae-11e9-8496-8eb2b5d23f19.JPG" width="750" height="350">
 </p>
 
 **환경설정**  
