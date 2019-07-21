@@ -2,7 +2,7 @@
 
 이 소스코드는 의료영상처리 딥러닝을 위한 소스코드입니다.
 
-##Gihub 란?
+## Gihub 란?
 * 프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.
 
 <p align="center">
@@ -35,11 +35,11 @@ ex) git merge
 git pull : git fetch + git merge
 ex) git pull
 
-##Google Colab 이란?
+## Google Colab 이란?
 
 [Tutorial 실습 링크](https://colab.research.google.com/github/Yonsei-MILab/Medical_Deeplearning/blob/master/CNN_VGG(Cifar10).ipynb)
 
-##CPU와 GPU 란?
+## CPU와 GPU 란?
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/35986429/61581719-c3184780-ab5c-11e9-8d98-ffaa6e526e01.JPG" width="700" height="300">
