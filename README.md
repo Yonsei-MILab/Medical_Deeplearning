@@ -10,8 +10,8 @@
 </p>
 
 **환경설정**  
-    git config --global user.name 계정이름  
-    git config --global user.email 깃허브 이메일  
+>git config --global user.name 계정이름  
+>git config --global user.email 깃허브 이메일  
 
 **다운로드**  
 ***git clone 깃허브 url***  
@@ -49,6 +49,6 @@
 * GPU :  여러 명령어를 동시에 처리하는 병렬 처리 방식을 가지고 있다. 캐시 메모리 비중이 크지 않고 연산을 할 수 있는 ALU 개수가 많다.
 
 
-Reference
-https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C
-https://www.youtube.com/watch?v=66c9QBXM2Fs&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81&index=4
+Reference  
+https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C  
+https://www.youtube.com/watch?v=66c9QBXM2Fs&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81&index=4  
