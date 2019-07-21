@@ -1,6 +1,6 @@
 # Medical_Deeplearning
 
-#### 이 소스코드는 의료영상처리 딥러닝을 위한 소스코드입니다.
+**이 소스코드는 의료영상처리 딥러닝을 위한 소스코드입니다.**
 
 ## Gihub 란?
 * **프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.**
@@ -9,10 +9,10 @@
   <img src="https://user-images.githubusercontent.com/35986429/61581865-ffe53e00-ab5e-11e9-88f1-7b8e0f29fbb7.JPG" width="800" height="350">
 </p>
 
-환경설정
-ex)
-git config --global user.name 계정이름
-git config --global user.email 깃허브 이메일
+환경설정  
+ex)  
+git config --global user.name 계정이름  
+git config --global user.email 깃허브 이메일  
 
 다운로드
 ex) git clone 깃허브 url
@@ -51,4 +51,5 @@ ex) git pull
 
 
 Reference
+https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C
 https://www.youtube.com/watch?v=66c9QBXM2Fs&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81&index=4
