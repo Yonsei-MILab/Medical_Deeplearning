@@ -14,7 +14,6 @@
 >git config --global user.email 깃허브 이메일  
 
 
-
 **다운로드**  
 >git clone 깃허브 url 
 
