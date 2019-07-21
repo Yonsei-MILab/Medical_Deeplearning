@@ -9,8 +9,10 @@
   <img src="https://user-images.githubusercontent.com/35986429/61581865-ffe53e00-ab5e-11e9-88f1-7b8e0f29fbb7.JPG" width="800" height="350">
 </p>
 
-**환경설정**  >git config --global user.name 계정이름  
+**환경설정**  
+>git config --global user.name 계정이름  
 >git config --global user.email 깃허브 이메일  
+
 
 
 **다운로드**  
