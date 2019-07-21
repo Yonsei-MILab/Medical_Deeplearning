@@ -51,6 +51,8 @@
 * #### GPU  
 여러 명령어를 동시에 처리하는 병렬 처리 방식을 가지고 있다. 캐시 메모리 비중이 크지 않고 연산을 할 수 있는 ALU 개수가 많다.
 
+## 목차
+
 
 ## Reference  
 https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C  
