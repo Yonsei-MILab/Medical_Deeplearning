@@ -13,26 +13,27 @@
 >git config --global user.name 계정이름  
 >git config --global user.email 깃허브 이메일  
 
+
 **다운로드**  
-***git clone 깃허브 url***  
+>git clone 깃허브 url 
 
 **git add : 파일을 프로젝트에 추가**  
-***git add 파일이름***  
+>git add 파일이름  
 
 **git commit : 파일이 올라간 시점을 스냅샷으로 찍음**  
-***git commit -m "변경 내용 log"***
+>git commit -m "변경 내용 log"  
 
 **git push : 원격 저장소(git hub)에 파일을 적용**  
-***git push***  
+>git push  
 
 **git fetch : 원격 저장소(git hub)에 올려진 파일을 내 컴퓨터에 다운로드**
-***git fetch***
+>git fetch  
 
 **git merge : 특정한 파일에서 다른 사람이 작성한 코드와 내 컴퓨터의 코드를 맞춤**  
-***git merge***  
+>git merge  
 
 **git pull : git fetch + git merge**  
-***git pull***  
+>git pull  
 
 ## Google Colab 이란?
 
