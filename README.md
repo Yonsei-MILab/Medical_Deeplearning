@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/35986429/61586413-3dbd8300-abae-11e9-8496-8eb2b5d23f19.jpg" width="800" height="400">
 </p>
 
-* **환경설정 **  
+* #####환경설정
 >git config --global user.name 계정이름  
 >git config --global user.email 깃허브 이메일  
 
