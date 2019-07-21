@@ -28,7 +28,7 @@
 **git fetch : 원격 저장소(git hub)에 올려진 파일을 내 컴퓨터에 다운로드**
 >git fetch  
 
-**git merge : 특정한 파일에서 다른 사람이 작성한 코드와 내 컴퓨터의 코드를 맞춤**  
+**git merge : 특정한 파일에서 다른 사람이 작성한 코드와 내 컴퓨터의 코드를 맞춰줌**  
 >git merge  
 
 **git pull : git fetch + git merge**  
