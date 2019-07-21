@@ -36,7 +36,10 @@
 
 ## Google Colab 이란?
 
-[Tutorial 실습 링크](https://colab.research.google.com/github/Yonsei-MILab/Medical_Deeplearning/blob/master/CNN_VGG(Cifar10).ipynb)
+***Google Drive + Jupyter Notebook***  
+Jupyter Notebook에서 활용하는 문서들을 하나의 공동작업의 문서로 통합해 주는 머신러닝 교육 데이터 분석 도구.
+
+[Tutorial 실습 링크](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
 
 ## CPU와 GPU 란?
 
