@@ -38,6 +38,7 @@
 
 * #### Jupyter Notebook에서 활용하는 문서들을 하나의 공동작업의 문서로 통합해 주는 머신러닝 교육 데이터 분석 도구
 >Google Drive + Jupyter Notebook
+>(GPU 최대 사용시간 : 12시간)
 
 ## CPU와 GPU 란?
 
