@@ -2,7 +2,7 @@
 
 **이 소스코드는 의료영상처리 딥러닝을 위한 소스코드입니다.**
 
-## Gihub 란?
+## Github 란?
 * **프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.**
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 **환경설정**  
-git config --global user.name 계정이름  
-git config --global user.email 깃허브 이메일  
+***git config --global user.name 계정이름***  
+***git config --global user.email 깃허브 이메일***  
 
 **다운로드**  
 git clone 깃허브 url  
