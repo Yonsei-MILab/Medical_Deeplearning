@@ -10,8 +10,8 @@
 </p>
 
 **환경설정**  
-(git config --global user.name 계정이름  
-git config --global user.email 깃허브 이메일)  
+    git config --global user.name 계정이름  
+    git config --global user.email 깃허브 이메일  
 
 **다운로드**  
 ***git clone 깃허브 url***  
