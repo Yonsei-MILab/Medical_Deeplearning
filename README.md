@@ -10,6 +10,9 @@
   <img src="https://blogfiles.pstatic.net/MjAxOTA5MTFfMjIw/MDAxNTY4MTY0MTM4NTAw.PYQYzzwbdRckXR41if9XfG4UI_-MFoECAedXX9Z-zFAg.7s06tOptnO9-QV8aGq98RSDV9vUTPqbbUEduSXfBU3cg.PNG.susie1513/colab1.PNG" width="800" height="600">
 </p>
 
+3. **source code 복사 버튼 클릭**
+<img src="https://blogfiles.pstatic.net/MjAxOTA5MTFfMTIy/MDAxNTY4MTY0Mjg1ODU0.VuUeMEIhtiLsAdoyQX47BoN_Gm3mDydp5Euh96D1Rzsg.i_ZoOpsqP4pyti7vkG6vbXp6IEvtce-VZhQkTULS_Vsg.PNG.susie1513/colab2.PNG" width="10" height="10">
+
 * #### 환경설정
 >git config --global user.name 계정이름  
 >git config --global user.email 깃허브 이메일  
