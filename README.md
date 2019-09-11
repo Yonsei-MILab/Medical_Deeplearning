@@ -3,10 +3,11 @@
 **This is a class exercise for Medical Machine Learning in Yonsei University**
 
 ## Github - Colab 연동
-* **프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.**
+1. **https://colab.research.google.com 에 접속**
 
+2. **Github 클릭 - 'Yonsei-MILab' 검색**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35986429/61586413-3dbd8300-abae-11e9-8496-8eb2b5d23f19.jpg" width="800" height="400">
+  <img src="https://blogfiles.pstatic.net/MjAxOTA5MTFfMjIw/MDAxNTY4MTY0MTM4NTAw.PYQYzzwbdRckXR41if9XfG4UI_-MFoECAedXX9Z-zFAg.7s06tOptnO9-QV8aGq98RSDV9vUTPqbbUEduSXfBU3cg.PNG.susie1513/colab1.PNG" width="800" height="400">
 </p>
 
 * #### 환경설정
