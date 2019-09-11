@@ -1,6 +1,6 @@
-# Medical_Deeplearning
+# Medical_Machine_Learning
 
-**이 소스코드는 의료영상처리 딥러닝을 위한 소스코드입니다.**
+**This is a class exercise for Medical Machine Learning in Yonsei University**
 
 ## Github 란?
 * **프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.**
