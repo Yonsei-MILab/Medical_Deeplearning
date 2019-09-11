@@ -7,7 +7,7 @@
 
 2. **Github 클릭 - 'Yonsei-MILab' 검색**
 <p align="center">
-  <img src="https://blogfiles.pstatic.net/MjAxOTA5MTFfMjIw/MDAxNTY4MTY0MTM4NTAw.PYQYzzwbdRckXR41if9XfG4UI_-MFoECAedXX9Z-zFAg.7s06tOptnO9-QV8aGq98RSDV9vUTPqbbUEduSXfBU3cg.PNG.susie1513/colab1.PNG" width="800" height="400">
+  <img src="https://blogfiles.pstatic.net/MjAxOTA5MTFfMjIw/MDAxNTY4MTY0MTM4NTAw.PYQYzzwbdRckXR41if9XfG4UI_-MFoECAedXX9Z-zFAg.7s06tOptnO9-QV8aGq98RSDV9vUTPqbbUEduSXfBU3cg.PNG.susie1513/colab1.PNG" width="800" height="600">
 </p>
 
 * #### 환경설정
