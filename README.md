@@ -2,7 +2,7 @@
 
 **This is a class exercise for Medical Machine Learning in Yonsei University**
 
-## Github 란?
+## Github - Colab 연동
 * **프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템이다.**
 
 <p align="center">
